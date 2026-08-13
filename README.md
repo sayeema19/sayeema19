@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm sayeema kulsum</h1>
-<h3 align="center">A passionate computer science from India</h3>
+<h3 align="center">A passionate computer science student from India</h3>
+
+- 📫 How to reach me **sayeemakulsum@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/sayeema_kulsum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayeema_kulsum" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
