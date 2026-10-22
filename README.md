@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm sayeema kulsum</h1>
+<h1 align="center">Hi , I'm sayeema kulsum</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
 - 📫 How to reach me **sayeemakulsum@gmail.com**
